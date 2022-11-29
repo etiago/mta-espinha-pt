@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: box.espinha.co.uk
+mx: *.mail.protection.outlook.com
+max_age: 604800
